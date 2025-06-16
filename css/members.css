@@ -34,7 +34,6 @@
     flex-shrink: 0;
     width: 260px;
     margin-left: 75px;
-    overflow: scroll;
 }
 
 .member-list li:first-child {
