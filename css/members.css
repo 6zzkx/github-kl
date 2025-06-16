@@ -11,7 +11,7 @@
 }
 
 .members h2::after {
-    content: '';
+    content: "";
     display: block;
     width: 36px;
     height: 3px;
